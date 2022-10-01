@@ -21,7 +21,7 @@ import LinkedinIcon from 'vue-material-design-icons/Linkedin.vue';
         </a>
       </p>
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-        <a class="ml-3" href="https://github.com/HevelMc/ValroseDocs" rel="noopener noreferrer" target="_blank">
+        <a class="ml-3" href="https://github.com/orgs/ValroseDocs/repositories" rel="noopener noreferrer" target="_blank">
           <GithubIcon class="w-5 h-5" />
         </a>
         <a class="ml-3" href="https://twitter.com/RhevelMc" rel="noopener noreferrer" target="_blank">
