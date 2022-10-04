@@ -15,7 +15,7 @@
 
   async function fetchData() {
     loading.value = true;
-    return fetch('https://valrose.hevel.tech/api/get_data', {
+    return fetch('https://valrose-api.hevel.tech/api/get_data', {
       method: 'get',
       headers: {
         'content-type': 'application/json',
